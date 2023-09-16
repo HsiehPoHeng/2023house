@@ -22,7 +22,7 @@
        <!--header畫面右區-->
             <div class="col-sm-12 col-md-5 m-3">
                 <div class="graphic">
-                    <img src="/img/layout/coin-wooden-table.jpg" alt="" width="400">
+                    <img src="/img/layout/header.jpg" alt="" width="400">
                 </div>
             </div>
           </div>

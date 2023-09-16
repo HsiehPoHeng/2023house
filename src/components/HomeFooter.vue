@@ -12,11 +12,10 @@
             </div>
             <!--footer畫面右區-->
             <div class="col-sm-12 col-md-4 m-3">
-                <img src="/img/layout/webpic.jpg" alt="" width="300">
+                <img src="/img/layout/footer.jpg" alt="" width="300">
             </div>
             </div>
         </div>
-        <a href="https://www.freepik.com/photos/">Technology photo created by jcomp - www.freepik.com</a>
     </div>
 </template>
 

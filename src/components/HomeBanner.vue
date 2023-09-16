@@ -4,7 +4,7 @@
             <div class="row p-6 h-100 justify-content-center align-items-center">
             <!--banner畫面左區-->
             <div class="col-sm-12 col-md-5">
-                <img src="/img/layout/link.jpg" alt="" width="300">
+                <img src="/img/layout/banner.jpg" alt="" width="300">
             </div>
             <!--banner畫面右區-->
             <div class="col-sm-12 col-md-5 m-3">
