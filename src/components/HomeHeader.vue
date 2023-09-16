@@ -1,12 +1,13 @@
 <template>
     <div class="header">
-        <div class="container h-100">
+     <div class="container h-100">
           <div class="row h-100 justify-content-center align-items-center">
        <!--header畫面左區-->
             <div class="col-sm-12 col-md-6">
               <div class="header-content">
                 <h1 class="header-title">
-                  房屋總價：１２５０萬（含車位）
+                  房屋特價：３２５０萬（含車位）
+                  前院有５大車位，建材優質，地點方便
                 </h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 <div class="header-btn mt-3">

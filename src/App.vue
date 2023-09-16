@@ -1,5 +1,5 @@
 <template>
-  <img alt="house logo" height="200" src="https://lh3.googleusercontent.com/pw/AIL4fc-NVTBSSyuRsdoU64NXQ_cMwZhoUtErO6OZTKwYk3OGhAS5Uc59momHDAtcq_CKYGQDUrJ0ETYdKIog5tCHsWSIC6WpuBYZOJiJgWWh2TUihmyoyPvv32bylaM4-636P1ZIxeKSXHKEB49uFl87XRQsPZbndYuWPWtMR6kj7gvhvBoFwTkddlvNxSf8k5AFK6e-ZBYvK1Ya_PHhehNpdpJfzsp-dz8FjgpfcBAYesZfw8tURQ1NBfbfojHI5tc7w_dynrhNttgIjUhBKc1wji2XntWq2bwj7MOgQO3gFdHpoUslB84CDBoRZGfpBEfE9vGJHyUJd98M8fwPA9KX3G_5KjhMRT3OA2OFfBz6mfi_UU6Kd4ye4hGJKXEHIKOiq3w8FJvg8kY2VrVvkwxpiXgJCos-pfDKQIGSlfR67p-RBdWtBnNWwcRAAsD0czMxOkUKDfCnBNp_39CF9XO7sYCXZR4E1q432ugDUA1T6n9mp3cZWi_ucmJZKIiPqsxuFxdmtMEGGoPH7Xg7WrL8w8p3GG7MBcxJP_py6xBGQIWV0JRlwKN9CUmSYxRiEZq7lpm6eQZsbmfacy7rvPSYiVMYPW8-wrH1fQLLbXxXysQYkdio_l39NT4zmL_luB269QENWNqreLJk0Ok5WGc9hOUGX--KgGpGsBzb5mhrxRlbMYaelQTax_N5QZm6ccFcca7SP1Mw-Ud_tvmy-rI2MvyO0bkICgnK25fgYKRlarsL9KrpaA_adikSR6Ozpq2EoAlWVjaMOykqj5qFIy5xaaXRrvfUNE5n6-Zi45LphKMhIy9Y2V056ymdPOZJR5gUhhaCePB6XgW4_Poj4Kx4S3wcFlwvrR9QMDNNQt7lNUaY4OqVYTqrT4UX6JtCcpXMq5Pxss0jX8-VynlDnXWfjIU=w600-h400-s-no?authuser=0">
+  <img alt="house logo" height="200" src="https://lh3.googleusercontent.com/pw/AIL4fc9ddX_Ys4Vjlf6b1rCplQw_cwTVYSTwTMiUm5LUTh1N80BMENOLye_9wEEeDYQaXfy461Jqs68ho1Z2OMUEc5wqGyiHJcLDLOEy7Kl5zW1soJ7ljnH6Ctx2Vi_Z09rqyyonjDtanJGYsrAlSabW0hZJWQ=w600-h400-s-no">
   <HelloWorld msg="房屋網"/>
   <div class="home">
     <Header></Header>
@@ -9,7 +9,6 @@
 </template>
 
 <script>
-
 import HelloWorld from './components/HelloWorld.vue'
 import Header from '@/components/HomeHeader.vue'; 
 import Banner from '@/components/HomeBanner.vue'; 
