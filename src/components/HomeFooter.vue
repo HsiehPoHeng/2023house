@@ -12,7 +12,7 @@
             </div>
             <!--footer畫面右區-->
             <div class="col-sm-12 col-md-4 m-3">
-                <img src="/img/layout/footer.jpg" alt="" width="300">
+                <img src="https://lh3.googleusercontent.com/pw/AIL4fc8V5t9qICByRquEJxIZrJHmzKRrkHw-rk-a8vyaMtzOhsakH7CB86IGnjUEr02Q2-d3pZpjMA9fbq4WNvF3PTCKj4_Pq-u9fCCHH5AbcOmvMUYz1NcPOLZxDDcHzQXfZlmIXQOKkwUAxdHYT6wxSXio3g=w1000-h750-s-no" alt="" width="300">
             </div>
             </div>
         </div>

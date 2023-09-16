@@ -4,7 +4,7 @@
             <div class="row p-6 h-100 justify-content-center align-items-center">
             <!--banner畫面左區-->
             <div class="col-sm-12 col-md-5">
-                <img src="/img/layout/banner.jpg" alt="" width="300">
+                <img src="https://lh3.googleusercontent.com/pw/AIL4fc-pMJnD4Q5bBOh-2ixE6ZhiQtE0MIZpObiL20Tqg0YRj8pSyWlDI-wNgJRmgRdkvYw4rieN8LmuoZuofoIXKUdT3636EVsox8dCq4Ltq3FvyoCQKxVwwNNpzS8JwPtYeRwMLlAnMcTvuAgptIpR_9uuUA=w1000-h750-s-no" alt="" width="300">
             </div>
             <!--banner畫面右區-->
             <div class="col-sm-12 col-md-5 m-3">

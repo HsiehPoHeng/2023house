@@ -22,7 +22,7 @@
        <!--header畫面右區-->
             <div class="col-sm-12 col-md-5 m-3">
                 <div class="graphic">
-                    <img src="/img/layout/header.jpg" alt="" width="400">
+                    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-SOLHlJMhqWs8efKkJMVf-12lkpB0SGmjwhPacZ3ZzV97-g2KiPW_UYHe88q69FbK3IsBB61d3oMyDegNLoLnZ60f-P_MHdW-monJ8keg0jhjoObT2R9O9kSqpnEspudkx84-dBoqKs1eolXd4K-XR0A=w1000-h750-s-no" alt="" width="400">
                 </div>
             </div>
           </div>
